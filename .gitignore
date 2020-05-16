@@ -1,0 +1,4 @@
+venv4/
+.ipynb_checkpints/
+.pytest_cache/
+__pucache__
